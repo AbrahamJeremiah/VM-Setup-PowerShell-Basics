@@ -1,34 +1,32 @@
 # VM-Setup-PowerShell-Basics
 <p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+<img src="https://www.starwindsoftware.com/blog/wp-content/uploads/2019/03/racsultat-de-recherche-dimages-pour-azure-vm.png" alt="Azure Virtual Machine Logo"/>
 </p>
 
-<h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+<h1>VM Setup & PowerShell Basics</h1>
 
 
-<h2>Video Demonstration</h2>
 
-- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute](https://www.youtube.com)
+<h2>Description</h2>
+This beginner-friendly tutorial is designed to introduce the fundamental concepts of Virtual Machines (VMs) and PowerShell scripting within Microsoft Azure. Participants will learn how to create, configure, and manage virtual machines while also gaining essential skills in PowerShell, enhancing their ability to automate tasks and manage virtual environments.
+
 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Active Directory Domain Services
 - PowerShell
 
 <h2>Operating Systems Used </h2>
 
 - Windows Server 2022
 - Windows 10 (21H2)
+- Linux [Ubuntu]
 
-<h2>High-Level Deployment and Configuration Steps</h2>
-
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+<h2>Part 1: Setting Up Virtual Machines</h2>
+<h3>Create Resource Group</h3>
+IMAGE
+<h3>Create a Windows 10 VM and a Linux (Ubuntu) VM</h3>
 
 <h2>Deployment and Configuration Steps</h2>
 
