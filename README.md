@@ -25,11 +25,16 @@ This beginner-friendly tutorial is designed to introduce the fundamental concept
 
 <h2>Part 1: Setting Up Virtual Machines</h2>
 <h3>Create Resource Group</h3>
-IMAGE
+<img src="https://i.imgur.com/gdHIpj7.png" height="80%" width="80%" alt="Resource Group"/>
 <h3>Create a Windows 10 VM and a Linux (Ubuntu) VM</h3>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<h2>Deployment and Configuration Steps</h2>
-
+<h2>Part 2: Observing Network Traffic</h2>
+<h3>Connect to Windows 10 VM using Remote Desktop</h3>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h3>Install and Use Wireshark</h3>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h2>Part 3: Advanced Network Observations and Configurations</h2>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
